@@ -9,10 +9,6 @@
 
 <div align="center">
 
-<h3>
-  <span style="color:#8A2BE2;">
-     "spamming here with codes"!! 👾
-  </span>
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Spamming+here+with+codes+%F0%9F%91%BE">
 
 </div>
