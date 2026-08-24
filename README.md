@@ -3,6 +3,6 @@
     src="./banner1.png"
     alt="Kolachina Sree Akhil"
     width="120%"
-    height="300"
+    height="250"
   >
 </p>
