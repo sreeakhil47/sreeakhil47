@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner1.png" width="100%" alt="Kolachina Sree Akhil">
+  <img src="./assets/banner1.png" width="70%" alt="Kolachina Sree Akhil">
 </p>
