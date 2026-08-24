@@ -2,6 +2,6 @@
   <img
     src="./banner1.png"
     alt="Kolachina Sree Akhil"
-    width="70%"
+    width="120%"
   >
 </p>
