@@ -19,7 +19,7 @@
     width: 0;
     animation: typing 3s steps(22, end) forwards, blink 0.7s step-end 4;
   ">
-    "spamming here with codes" 👾
+    spamming here with codes 👾
   </span>
 </p>
 
